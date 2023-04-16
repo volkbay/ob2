@@ -11,7 +11,7 @@ _Fig. 1: Generated brushstrokes_
 
 ## :books: Dependencies
 This is a Python3 projects using modules:
-- OpenCV v3
+- OpenCV v4.3.0
 - Tensorflow v2.1
 - NumPy
 - glob
